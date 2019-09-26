@@ -3,7 +3,9 @@ Nick Thoms
 C++ 2019
 Due: 09/26/19
 Lab 3 User and File I/O
-Description:
+Description:This program takes a set of data in the form of integers from both user
+input and a data file, then uses the data to calculate the mean and standard deviation 
+of the set of numbers.
 */
 
 #include<iostream>
